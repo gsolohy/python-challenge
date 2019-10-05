@@ -13,5 +13,3 @@
 + Other resources and notes
 
 # Purpose: A Code that reads a csv file to run functions, and writes the result as text file.
-
-Extra Content - Not finished
